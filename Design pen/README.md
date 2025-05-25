@@ -1,7 +1,7 @@
 This project is the implementation of Designing a pen.
 
 # Design a Pen
-Step:1 Gather and clarify requirements (Reuirements to design a pen)
+Step:1 Gather and clarify requirements (Requirements to design a pen)
     1.) Any physical entity that can write behaviour is a pen.
     2.) Supporting Gel pen, ball pen, fountain pen.
     3.) Ball and Gel pen will have a refill. Others will not have a refill, and refill will have ink.
